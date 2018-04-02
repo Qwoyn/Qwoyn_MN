@@ -1,7 +1,7 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Qwoyn </h1> <br>
 <p align="center">
   <a href="https://qwoyn.com/">
-    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/w7gQoAH.png" width="450">
+    <img alt="Qwoyn" title="Qwoyn" src="https://i.imgur.com/w7gQoAH.png" width="450">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#Coin specification:)
+- [Features](#Coin)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
