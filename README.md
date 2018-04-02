@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#Coin)
+- [Features](#coin-specification)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
