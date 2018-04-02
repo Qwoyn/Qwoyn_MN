@@ -66,13 +66,13 @@ void OptionsModel::Init()
     if (!settings.contains("nDarksendRounds"))
         settings.setValue("nDarksendRounds", 2);
     nDarksendRounds = settings.value("nDarksendRounds").toLongLong();
-    if (!settings.contains("nAnonymizeApollonAmount"))
-        settings.setValue("nAnonymizeApollonAmount", 1000);
-    nAnonymizeApollonAmount = settings.value("nAnonymizeApollonAmount").toLongLong();
+    if (!settings.contains("nAnonymizeQwoynAmount"))
+        settings.setValue("nAnonymizeQwoynAmount", 1000);
+    nAnonymizeQwoynAmount = settings.value("nAnonymizeQwoynAmount").toLongLong();
     if (settings.contains("nDarksendRounds"))
         SoftSetArg("-darksendrounds", settings.value("nDarksendRounds").toString().toStdString());
-    if (settings.contains("nAnonymizeApollonAmount"))
-        SoftSetArg("-anonymizetraveamount", settings.value("nAnonymizeApollonAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeQwoynAmount"))
+        SoftSetArg("-anonymizetraveamount", settings.value("nAnonymizeQwoynAmount").toString().toStdString());
 
 
 
@@ -206,8 +206,8 @@ QVariant OptionsModel::data(const QModelIndex & index, int role) const
             return fCoinControlFeatures;
         case DarksendRounds:
             return QVariant(nDarksendRounds);
-        case AnonymizeApollonAmount:
-            return QVariant(nAnonymizeApollonAmount);
+        case AnonymizeQwoynAmount:
+            return QVariant(nAnonymizeQwoynAmount);
         case UseBlackTheme:
             return QVariant(fUseBlackTheme);
         default:
@@ -318,10 +318,10 @@ bool OptionsModel::setData(const QModelIndex & index, const QVariant & value, in
             settings.setValue("nDarksendRounds", nDarksendRounds);
             emit darksendRoundsChanged(nDarksendRounds);
             break;
-        case AnonymizeApollonAmount:
-            nAnonymizeApollonAmount = value.toInt();
-            settings.setValue("nAnonymizeApollonAmount", nAnonymizeApollonAmount);
-            emit AnonymizeApollonAmountChanged(nAnonymizeApollonAmount);
+        case AnonymizeQwoynAmount:
+            nAnonymizeQwoynAmount = value.toInt();
+            settings.setValue("nAnonymizeQwoynAmount", nAnonymizeQwoynAmount);
+            emit AnonymizeQwoynAmountChanged(nAnonymizeQwoynAmount);
             break;
         default:
             break;

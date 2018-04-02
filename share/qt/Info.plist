@@ -3,27 +3,27 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>Apollon.icns</string>
+	<string>Qwoyn.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Apollon-Qt</string>
+	<string>Qwoyn-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Apollon-Qt</string>
+	<string>Qwoyn-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.Apollon.Apollon-Qt</string>
+	<string>co.Qwoyn.Qwoyn-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.Apollon.ApollonPayment</string>
+            <string>co.Qwoyn.QwoynPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>Apollon</string>
+              <string>Qwoyn</string>
             </array>
           </dict>
         </array>

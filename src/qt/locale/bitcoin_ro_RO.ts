@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Apollon</source>
-        <translation>Despre Apollon</translation>
+        <source>About Qwoyn</source>
+        <translation>Despre Qwoyn</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Apollon&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Apollon&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Qwoyn&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Qwoyn&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2018 The Apollon developers</source>
+Copyright © 2015-2018 The Qwoyn developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2018 The Apollon developers</translation>
+Copyright © 2015-2018 The Qwoyn developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Apollon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Apollon pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Qwoyn addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Qwoyn pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Apollon address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Apollon</translation>
+        <source>Sign a message to prove you own a Qwoyn address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Qwoyn</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Apollon address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Apollon</translation>
+        <source>Verify a message to ensure it was signed with a specified Qwoyn address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Qwoyn</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Apollon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Apollon se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Qwoyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Qwoyn se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Apollon</source>
-        <translation>Arată informații despre Apollon</translation>
+        <source>Show information about Qwoyn</source>
+        <translation>Arată informații despre Qwoyn</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Apollon address</source>
-        <translation>Trimite monede către o adresă Apollon</translation>
+        <source>Send coins to a Qwoyn address</source>
+        <translation>Trimite monede către o adresă Qwoyn</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Apollon</source>
-        <translation>Modifică opțiuni de configurare pentru Apollon</translation>
+        <source>Modify configuration options for Qwoyn</source>
+        <translation>Modifică opțiuni de configurare pentru Qwoyn</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Apollon</source>
-        <translation>Apollon</translation>
+        <source>Qwoyn</source>
+        <translation>Qwoyn</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Apollon</source>
-        <translation>Despre Apollon</translation>
+        <source>&amp;About Qwoyn</source>
+        <translation>Despre Qwoyn</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Apollon client</source>
-        <translation>Clientul Apollon</translation>
+        <source>Qwoyn client</source>
+        <translation>Clientul Qwoyn</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Apollon network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Apollon</numerusform><numerusform>%n conexiuni active la reteaua Apollon</numerusform><numerusform>%n conexiuni active la reteaua Apollon</numerusform></translation>
+        <source>%n active connection(s) to Qwoyn network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Qwoyn</numerusform><numerusform>%n conexiuni active la reteaua Qwoyn</numerusform><numerusform>%n conexiuni active la reteaua Qwoyn</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Apollon address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Apollon invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Qwoyn address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Qwoyn invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Apollon can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Apollon nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Qwoyn can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Qwoyn nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Apollon address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Apollon validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Qwoyn address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Qwoyn validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Apollon-Qt</source>
-        <translation>Apollon-Qt</translation>
+        <source>Qwoyn-Qt</source>
+        <translation>Qwoyn-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Apollon after logging in to the system.</source>
-        <translation>Pornește Apollon imdiat după logarea în sistem</translation>
+        <source>Automatically start Qwoyn after logging in to the system.</source>
+        <translation>Pornește Qwoyn imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Apollon on system login</source>
-        <translation>$Pornește Apollon la logarea în sistem</translation>
+        <source>&amp;Start Qwoyn on system login</source>
+        <translation>$Pornește Qwoyn la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Apollon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Apollon pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Qwoyn client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Qwoyn pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Apollon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Apollon prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Qwoyn network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Qwoyn prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Apollon.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Apollon.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Qwoyn.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Qwoyn.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Apollon.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Apollon.</translation>
+        <source>This setting will take effect after restarting Qwoyn.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Qwoyn.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Apollon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Apollon după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qwoyn network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Qwoyn după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Apollon-Qt help message to get a list with possible Apollon command-line options.</source>
-        <translation>Afișa mesajul de ajutor Apollon-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Apollon.</translation>
+        <source>Show the Qwoyn-Qt help message to get a list with possible Qwoyn command-line options.</source>
+        <translation>Afișa mesajul de ajutor Qwoyn-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Qwoyn.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Apollon - Debug window</source>
-        <translation>Apollon - fereastră depanare</translation>
+        <source>Qwoyn - Debug window</source>
+        <translation>Qwoyn - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Apollon Core</source>
-        <translation>Apollon Core</translation>
+        <source>Qwoyn Core</source>
+        <translation>Qwoyn Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Apollon debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Apollon din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Qwoyn debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Qwoyn din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Apollon RPC console.</source>
-        <translation>Bine ati venit la consola Apollon RPC.</translation>
+        <source>Welcome to the Qwoyn RPC console.</source>
+        <translation>Bine ati venit la consola Qwoyn RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1731,8 +1731,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 XAP</source>
-        <translation>123.456 XAP {0.00 ?}</translation>
+        <source>0.00 QWN</source>
+        <translation>123.456 QWN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1801,8 +1801,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 XAP</source>
-        <translation>123.456 XAP</translation>
+        <source>123.456 QWN</source>
+        <translation>123.456 QWN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Apollon(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Qwoyn(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Apollon address</source>
-        <translation>Atenție: Adresă Apollon invalidă</translation>
+        <source>WARNING: Invalid Qwoyn address</source>
+        <translation>Atenție: Adresă Qwoyn invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Apollon(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Qwoyn(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Apollon address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Apollon</translation>
+        <source>Sign the message to prove you own this Qwoyn address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Qwoyn</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Apollon address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Apollon</translation>
+        <source>Verify the message to ensure it was signed with the specified Qwoyn address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Qwoyn</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Apollon(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Qwoyn(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Apollon signature</source>
-        <translation>Introduceti semnatura Apollon</translation>
+        <source>Enter Qwoyn signature</source>
+        <translation>Introduceti semnatura Qwoyn</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Apollon version</source>
-        <translation>Versiune Apollon</translation>
+        <source>Qwoyn version</source>
+        <translation>Versiune Qwoyn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Apollond</source>
-        <translation>Trimite comanda catre server sau Apollond</translation>
+        <source>Send command to -server or Qwoynd</source>
+        <translation>Trimite comanda catre server sau Qwoynd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Apollon.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: Apollon.conf)</translation>
+        <source>Specify configuration file (default: Qwoyn.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Qwoyn.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Apollond.pid)</source>
-        <translation>Speficica fisier pid(implicit: Apollon.pid)</translation>
+        <source>Specify pid file (default: Qwoynd.pid)</source>
+        <translation>Speficica fisier pid(implicit: Qwoyn.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Apollonrpc
+rpcuser=Qwoynrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Qwoyn Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Apollon will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Apollon nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Qwoyn will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Qwoyn nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Apollon is shutting down.</source>
+        <source>Initialization sanity check failed. Qwoyn is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Apollon</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Apollon</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Qwoyn</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Qwoyn</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Apollon to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Apollon pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Qwoyn to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Qwoyn pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Apollon is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Apollon ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Qwoyn is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Qwoyn ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Apollon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Qwoyn is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

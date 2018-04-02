@@ -1,9 +1,9 @@
-Building Apollon
+Building Qwoyn
 
-See doc/readme-qt.rst for instructions on building Apollon QT,
+See doc/readme-qt.rst for instructions on building Qwoyn QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Apollon.
+implementation of Qwoyn.
 
-See doc/build-*.txt for instructions on building Apollond,
+See doc/build-*.txt for instructions on building Qwoynd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Apollon.
+implementation of Qwoyn.

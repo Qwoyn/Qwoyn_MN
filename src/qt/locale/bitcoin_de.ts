@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Apollon</source>
-        <translation>Über Apollon</translation>
+        <source>About Qwoyn</source>
+        <translation>Über Qwoyn</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Apollon&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Apollon&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;Qwoyn&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Qwoyn&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2018 The Apollon developers</source>
+Copyright © 2015-2018 The Qwoyn developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Apollon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre Apollon Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
+        <source>These are your Qwoyn addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre Qwoyn Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Apollon address</source>
-        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine Apollon Adresse besitzen</translation>
+        <source>Sign a message to prove you own a Qwoyn address</source>
+        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine Qwoyn Adresse besitzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Apollon address</source>
-        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten Apollon Adresse signiert wurde</translation>
+        <source>Verify a message to ensure it was signed with a specified Qwoyn address</source>
+        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten Qwoyn Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Apollon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Apollon wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
+        <source>Qwoyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Qwoyn wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Apollon</source>
-        <translation>Informationen über Apollon anzeigen</translation>
+        <source>Show information about Qwoyn</source>
+        <translation>Informationen über Qwoyn anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Apollon address</source>
-        <translation>Senden Sie Coins an eine Apollon Adresse</translation>
+        <source>Send coins to a Qwoyn address</source>
+        <translation>Senden Sie Coins an eine Qwoyn Adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Apollon</source>
-        <translation>Konfigurationsoptionen für Apollon ändern</translation>
+        <source>Modify configuration options for Qwoyn</source>
+        <translation>Konfigurationsoptionen für Qwoyn ändern</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Apollon</source>
-        <translation>Apollon</translation>
+        <source>Qwoyn</source>
+        <translation>Qwoyn</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Apollon</source>
-        <translation>&amp;Über Apollon</translation>
+        <source>&amp;About Qwoyn</source>
+        <translation>&amp;Über Qwoyn</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Apollon client</source>
+        <source>Qwoyn client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Apollon network</source>
-        <translation><numerusform>%n aktive Verbindung zum Apollon Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum Apollon Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to Qwoyn network</source>
+        <translation><numerusform>%n aktive Verbindung zum Qwoyn Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum Qwoyn Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -597,8 +597,8 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Apollon address or malformed URI parameters.</source>
-        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige Apollon Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Qwoyn address or malformed URI parameters.</source>
+        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige Qwoyn Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -720,8 +720,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Apollon can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler ist aufgetreten. Apollon kann nicht fortgesetzt werden und wird beendet.</translation>
+        <source>A fatal error occurred. Qwoyn can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. Qwoyn kann nicht fortgesetzt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -1040,8 +1040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Apollon address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Apollon Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Qwoyn address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Qwoyn Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1059,7 +1059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Apollon-Qt</source>
+        <source>Qwoyn-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1132,13 +1132,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Apollon after logging in to the system.</source>
-        <translation>Automatisch Apollon starten beim Einloggen in das System.</translation>
+        <source>Automatically start Qwoyn after logging in to the system.</source>
+        <translation>Automatisch Qwoyn starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Apollon on system login</source>
-        <translation>&amp;Starte Apollon bei Systemstart</translation>
+        <source>&amp;Start Qwoyn on system login</source>
+        <translation>&amp;Starte Qwoyn bei Systemstart</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1147,8 +1147,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Apollon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Apollon client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the Qwoyn client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den Qwoyn client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1157,7 +1157,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Apollon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Qwoyn network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1232,7 +1232,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Apollon.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Qwoyn.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1243,7 +1243,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Apollons angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Qwoyns angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1299,7 +1299,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Apollon.</source>
+        <source>This setting will take effect after restarting Qwoyn.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1318,8 +1318,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Apollon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Apollon Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qwoyn network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Qwoyn Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1560,7 +1560,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Apollon-Qt help message to get a list with possible Apollon command-line options.</source>
+        <source>Show the Qwoyn-Qt help message to get a list with possible Qwoyn command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,13 +1580,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Apollon - Debug window</source>
-        <translation>Apollon - Debug Fenster</translation>
+        <source>Qwoyn - Debug window</source>
+        <translation>Qwoyn - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Apollon Core</source>
-        <translation>Apollon Kern</translation>
+        <source>Qwoyn Core</source>
+        <translation>Qwoyn Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1595,7 +1595,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Apollon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Qwoyn debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1605,7 +1605,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Apollon RPC console.</source>
+        <source>Welcome to the Qwoyn RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1714,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 XAP</source>
+        <source>0.00 QWN</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1784,7 +1784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 XAP</source>
+        <source>123.456 QWN</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1799,7 +1799,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1899,8 +1899,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Apollon address</source>
-        <translation>Warnung: Ungültige Apollon Adresse</translation>
+        <source>WARNING: Invalid Qwoyn address</source>
+        <translation>Warnung: Ungültige Qwoyn Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1973,7 +1973,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2034,8 +2034,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Apollon address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Apollon Adresse bist.</translation>
+        <source>Sign the message to prove you own this Qwoyn address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Qwoyn Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2066,7 +2066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Apollon address</source>
+        <source>Verify the message to ensure it was signed with the specified Qwoyn address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2077,7 +2077,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2087,8 +2087,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Apollon signature</source>
-        <translation>Apollon Signatur eingeben</translation>
+        <source>Enter Qwoyn signature</source>
+        <translation>Qwoyn Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2666,7 +2666,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Apollon version</source>
+        <source>Qwoyn version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2676,8 +2676,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Apollond</source>
-        <translation>Kommando versenden an -server oder Apollond </translation>
+        <source>Send command to -server or Qwoynd</source>
+        <translation>Kommando versenden an -server oder Qwoynd </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2696,13 +2696,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Apollon.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: Apollon.conf)</translation>
+        <source>Specify configuration file (default: Qwoyn.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: Qwoyn.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Apollond.pid)</source>
-        <translation>PID Datei angeben (Standard: Apollon.pid)</translation>
+        <source>Specify pid file (default: Qwoynd.pid)</source>
+        <translation>PID Datei angeben (Standard: Qwoyn.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2719,13 +2719,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Apollonrpc
+rpcuser=Qwoynrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Qwoyn Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2831,8 +2831,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Apollon will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird Apollon nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Qwoyn will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird Qwoyn nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3138,7 +3138,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Apollon is shutting down.</source>
+        <source>Initialization sanity check failed. Qwoyn is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3203,13 +3203,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Apollon</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Apollon Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Qwoyn</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Qwoyn Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Apollon to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Apollon Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart Qwoyn to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die Qwoyn Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3273,7 +3273,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Apollon is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Qwoyn is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
@@ -3313,7 +3313,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Apollon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Qwoyn is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

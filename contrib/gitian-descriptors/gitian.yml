@@ -1,5 +1,5 @@
 ---
-name: "Apollon"
+name: "Qwoyn"
 suites:
 - "lucid"
 architectures:
@@ -20,8 +20,8 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/rat4/Apollon.git"
-  "dir": "Apollon"
+- "url": "https://github.com/rat4/Qwoyn.git"
+  "dir": "Qwoyn"
 files:
 - "miniupnpc-1.6.tar.gz"
 - "qrencode-3.2.0.tar.bz2"
@@ -40,17 +40,17 @@ script: |
   make $MAKEOPTS install
   cd ..
   #
-  cd Apollon
+  cd Qwoyn
   mkdir -p $OUTDIR/src
   git archive HEAD | tar -x -C $OUTDIR/src
   cp $OUTDIR/src/doc/README $OUTDIR
   cp $OUTDIR/src/COPYING $OUTDIR
   cd src
-  make -f makefile.unix STATIC=1 OPENSSL_INCLUDE_PATH="$INSTDIR/include" OPENSSL_LIB_PATH="$INSTDIR/lib" $MAKEOPTS Apollond USE_UPNP=1 DEBUGFLAGS=
+  make -f makefile.unix STATIC=1 OPENSSL_INCLUDE_PATH="$INSTDIR/include" OPENSSL_LIB_PATH="$INSTDIR/lib" $MAKEOPTS Qwoynd USE_UPNP=1 DEBUGFLAGS=
   mkdir -p $OUTDIR/bin/$GBUILD_BITS
-  install -s Apollond $OUTDIR/bin/$GBUILD_BITS
+  install -s Qwoynd $OUTDIR/bin/$GBUILD_BITS
   #
   cd ..
   qmake INCLUDEPATH="$INSTDIR/include" LIBS="-L$INSTDIR/lib" RELEASE=1 USE_QRCODE=1
   make $MAKEOPTS
-  install Apollon-qt $OUTDIR/bin/$GBUILD_BITS
+  install Qwoyn-qt $OUTDIR/bin/$GBUILD_BITS

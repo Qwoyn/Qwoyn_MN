@@ -24,8 +24,8 @@ Once you've got the right hardware and software:
     cd ..
 
     # To build
-    cd Apollon
+    cd Qwoyn
     git pull
     cd ../gitian-builder
     git pull
-    ./bin/gbuild --commit bitcoin=HEAD ../Apollon/contrib/gitian-descriptors/gitian.yml
+    ./bin/gbuild --commit bitcoin=HEAD ../Qwoyn/contrib/gitian-descriptors/gitian.yml

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Apollon</source>
-        <translation>O Apollone</translation>
+        <source>About Qwoyn</source>
+        <translation>O Qwoyne</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Apollon&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Apollon&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;Qwoyn&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Qwoyn&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2018 The Apollon developers</source>
+Copyright © 2015-2018 The Qwoyn developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2018 The Apollon developers</translation>
+Copyright © 2015-2018 The Qwoyn developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Apollon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Apollon adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your Qwoyn addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Qwoyn adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Apollon address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Apollon adresu</translation>
+        <source>Sign a message to prove you own a Qwoyn address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Qwoyn adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Apollon address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Apollon adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Qwoyn address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Qwoyn adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+82"/>
-        <source>Apollon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Apollon sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
+        <source>Qwoyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Qwoyn sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Apollon</source>
-        <translation>Zobraziť informácie o Apollon</translation>
+        <source>Show information about Qwoyn</source>
+        <translation>Zobraziť informácie o Qwoyn</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Apollon address</source>
-        <translation>Poslať mince na Apollon adresu</translation>
+        <source>Send coins to a Qwoyn address</source>
+        <translation>Poslať mince na Qwoyn adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Apollon</source>
-        <translation>Upraviť možnosti konfigurácie pre Apollon</translation>
+        <source>Modify configuration options for Qwoyn</source>
+        <translation>Upraviť možnosti konfigurácie pre Qwoyn</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Apollon</source>
-        <translation>Apollon</translation>
+        <source>Qwoyn</source>
+        <translation>Qwoyn</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -453,8 +453,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Apollon</source>
-        <translation>&amp;O Apollon</translation>
+        <source>&amp;About Qwoyn</source>
+        <translation>&amp;O Qwoyn</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Apollon client</source>
-        <translation>Apollon klient</translation>
+        <source>Qwoyn client</source>
+        <translation>Qwoyn klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Apollon network</source>
-        <translation><numerusform>%n aktívne spojenie s Apollon sieťov</numerusform><numerusform>%n aktívnych spojení s Apollon sieťov</numerusform><numerusform>%n aktívnych spojení s Apollon sieťou</numerusform></translation>
+        <source>%n active connection(s) to Qwoyn network</source>
+        <translation><numerusform>%n aktívne spojenie s Qwoyn sieťov</numerusform><numerusform>%n aktívnych spojení s Qwoyn sieťov</numerusform><numerusform>%n aktívnych spojení s Qwoyn sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -604,8 +604,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Apollon address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Apollon adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Qwoyn address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Qwoyn adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -727,8 +727,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Apollon can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Apollon už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Qwoyn can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Qwoyn už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Apollon address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Apollon adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Qwoyn address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Qwoyn adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Apollon-Qt</source>
-        <translation>Apollon-Qt</translation>
+        <source>Qwoyn-Qt</source>
+        <translation>Qwoyn-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Apollon after logging in to the system.</source>
-        <translation>Automaticky spustiť Apollon po prihlásení sa do systému.</translation>
+        <source>Automatically start Qwoyn after logging in to the system.</source>
+        <translation>Automaticky spustiť Qwoyn po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Apollon on system login</source>
-        <translation>&amp;Spustiť Apollon pri prihlásení do systému</translation>
+        <source>&amp;Start Qwoyn on system login</source>
+        <translation>&amp;Spustiť Qwoyn pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1168,8 +1168,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Apollon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Apollon na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Qwoyn client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Qwoyn na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Apollon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Apollon cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Qwoyn network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Qwoyn cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Apollon.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Apollon.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Qwoyn.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Qwoyn.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1320,8 +1320,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Apollon.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Apollon.</translation>
+        <source>This setting will take effect after restarting Qwoyn.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Qwoyn.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Apollon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Apollon po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qwoyn network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Qwoyn po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1414,7 +1414,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start transfer: click-to-pay handler</source>
-        <translation>Apollon sa nedá spustiť: click-to-pay handler</translation>
+        <translation>Qwoyn sa nedá spustiť: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1581,8 +1581,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Apollon-Qt help message to get a list with possible Apollon command-line options.</source>
-        <translation>Zobraziť Apollon-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Apollon.</translation>
+        <source>Show the Qwoyn-Qt help message to get a list with possible Qwoyn command-line options.</source>
+        <translation>Zobraziť Qwoyn-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Qwoyn.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1601,13 +1601,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Apollon - Debug window</source>
-        <translation>Apollon - Ladiace okno</translation>
+        <source>Qwoyn - Debug window</source>
+        <translation>Qwoyn - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Apollon Core</source>
-        <translation>Jadro Apollon</translation>
+        <source>Qwoyn Core</source>
+        <translation>Jadro Qwoyn</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1616,8 +1616,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Apollon debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Apollon súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the Qwoyn debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Qwoyn súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1626,8 +1626,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Apollon RPC console.</source>
-        <translation>Vitajte v konzole Apollon RPC.</translation>
+        <source>Welcome to the Qwoyn RPC console.</source>
+        <translation>Vitajte v konzole Qwoyn RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1735,8 +1735,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 XAP</source>
-        <translation>123.456 XAP {0.00 ?}</translation>
+        <source>0.00 QWN</source>
+        <translation>123.456 QWN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1805,8 +1805,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 XAP</source>
-        <translation>123.456 XAP</translation>
+        <source>123.456 QWN</source>
+        <translation>123.456 QWN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1820,8 +1820,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Apollon adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Qwoyn adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1920,8 +1920,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Apollon address</source>
-        <translation>UPOZORNENIE: Neplatná Apollon adresa</translation>
+        <source>WARNING: Invalid Qwoyn address</source>
+        <translation>UPOZORNENIE: Neplatná Qwoyn adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1994,8 +1994,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Apollon adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Qwoyn adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2055,8 +2055,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Apollon address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Apollon adresu</translation>
+        <source>Sign the message to prove you own this Qwoyn address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Qwoyn adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2087,8 +2087,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Apollon address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Apollon adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Qwoyn address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Qwoyn adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2098,8 +2098,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Apollon address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Apollon adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Qwoyn address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Qwoyn adresu (napr. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2108,8 +2108,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Apollon signature</source>
-        <translation>Zadajte Apollon podpis</translation>
+        <source>Enter Qwoyn signature</source>
+        <translation>Zadajte Qwoyn podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2687,8 +2687,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Apollon version</source>
-        <translation>Apollon verzia</translation>
+        <source>Qwoyn version</source>
+        <translation>Qwoyn verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2697,8 +2697,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Apollond</source>
-        <translation>Pošli príkaz na -server alebo Apollond</translation>
+        <source>Send command to -server or Qwoynd</source>
+        <translation>Pošli príkaz na -server alebo Qwoynd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2717,13 +2717,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Apollon.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: Apollon.conf)</translation>
+        <source>Specify configuration file (default: Qwoyn.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Qwoyn.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Apollond.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: Apollond.pid)</translation>
+        <source>Specify pid file (default: Qwoynd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Qwoynd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2740,24 +2740,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Apollonrpc
+rpcuser=Qwoynrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Apollon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Qwoyn Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
 %s
 Doporučuje sa použiť nasledovné náhodne heslo:
-rpcuser=Apollonrpc
+rpcuser=Qwoynrpc
 rpcpassword=%s
 (toto heslo si nemusíte pamätať)
 Užívateľské meno a heslo NESMIE byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s právami &quot;môže čítať iba vlastník&quot;.
 Odporúča sa tiež nastaviť &quot;alertnotify&quot;, takže budete upozornení na problémy,
-napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin@foo.com
+napríklad: alertnotify=echo %%s | mail -s &quot;Qwoyn upozornenie&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2862,8 +2862,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Apollon will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Apollon nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Qwoyn will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Qwoyn nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3169,8 +3169,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Apollon is shutting down.</source>
-        <translation>Úvodné kontrolné testy zlyhali. Apollon sa teraz zatvori.</translation>
+        <source>Initialization sanity check failed. Qwoyn is shutting down.</source>
+        <translation>Úvodné kontrolné testy zlyhali. Qwoyn sa teraz zatvori.</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -3234,13 +3234,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Apollon</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Apollon</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Qwoyn</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Qwoyn</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Apollon to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Apollon k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Qwoyn to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Qwoyn k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3304,8 +3304,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Apollon is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Apollon je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Qwoyn is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Qwoyn je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3344,8 +3344,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Apollon upozornenie&quot; admin
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Apollon is probably already running.</source>
-        <translation>Nedá sa zamknúť dátová zložka %s. Apollon je pravdepodobne už spustený</translation>
+        <source>Cannot obtain a lock on data directory %s. Qwoyn is probably already running.</source>
+        <translation>Nedá sa zamknúť dátová zložka %s. Qwoyn je pravdepodobne už spustený</translation>
     </message>
     <message>
         <location line="+4"/>
